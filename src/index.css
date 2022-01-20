@@ -11,3 +11,106 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+@media only screen and (max-width: 600px){
+  div.col-lg-6.ml-5.mb-3{
+    margin-left: 0 !important;
+  }
+  .image, .imagge, .imaggge{
+    float: unset !important;
+    width: 100% !important;
+  }
+   .text, .textt, .texttt{
+    float: unset !important;
+    width: 100% !important;
+    padding: 15px !important;
+  }
+  .containerproducts{
+    text-align: center !important;
+  }
+  .banner{
+    height: 310px;
+    object-fit: cover;
+  }
+}
+
+@media only screen and (max-width: 700px){
+  .col-lg-12.col-sm-6.pr-5.pl-3.img-fluid{
+      padding: 0 !important;
+  }
+  .rcw{
+    margin: 0 !important;
+  }
+  .gml{
+      margin-top: 50px;
+      width: 100%;
+      height: 100%;
+  }
+  .rwab{
+    margin: 15px !important;
+  }
+  .aboutTitle{
+    font-size: 30px !important;
+  }
+  .banner{
+    margin-bottom: 15px !important;
+  }
+  .cntt{
+    margin: 0 !important;
+  }
+  .gml{
+    margin-top: 0 !important;
+  }
+  .cnrow{
+    margin: 20px !important;
+  }
+  .paginationBttns{
+    margin-top: 0 !important;
+  }
+  .sust{
+      padding: 30px !important;
+  }
+  .nsn{
+      margin: 50px !important;
+  }
+  .nprr{
+      width: 100% !important;
+      margin: 0 !important;
+      font-size: 25px !important;
+  }
+  p.aboutDescription.mb-5.mt-3{
+      margin: 0 !important;
+  }
+  .row.justify-content-center.mr-5.ml-5{
+      margin: 0 !important;
+  }
+  div.clr.row{
+      padding: 0 !important;
+  }
+  .npr{
+      width: 80% !important;
+  } 
+  .calr{
+      width: 90% !important;
+  }
+  .cr{
+      padding: 0 !important;
+  }
+  .logo{
+      padding: 0 !important;
+      width: 50%;
+  }
+  .nvr{
+      margin: 10px !important;
+  }
+  .ntr{
+      margin-top: 10px !important;
+  }
+  .clr{
+      margin: 20px !important;
+  }
+  .sliderclients{
+      margin: 50px !important;
+  }
+}

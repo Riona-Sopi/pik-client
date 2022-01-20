@@ -1,0 +1,13 @@
+.imagge{
+    width: 50%;
+}
+
+.textt{
+    padding: 30px;
+    width: 50%;
+}
+
+.containerproducts {
+    align-items: center;
+    justify-content: center;
+}

@@ -1,0 +1,27 @@
+.text {
+    padding: 50px;
+}
+
+.image {
+    width: 100%;
+    text-align: center;
+}
+
+.aboutTitle{
+    color: #58AA94;
+    line-height: 1.3;
+    font-size: 2em;
+    font-weight: 700;
+}
+
+.slick-prev:before, .slick-next:before{
+    color: #58AA94 !important;
+    opacity: unset !important;
+
+}
+
+.successTitle{
+    color: #58AA94;
+    font-size: 22px;
+    font-weight: 500;
+}

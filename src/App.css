@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.form-select:focus{
+  border-color: unset !important;
+  outline: 0;
+  box-shadow: none;
+}
+
+.opt:hover{
+  background-color: #6f8c785d !important;
+}
+
+.llink{
+  width: 200px;
+}

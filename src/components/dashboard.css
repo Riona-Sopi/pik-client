@@ -1,0 +1,57 @@
+.dtitle{
+    font-weight: bold;
+    font-size: 14px;
+    margin-bottom: 0.5em;
+    margin-top: 3em;
+}
+
+.etitle{
+    font-weight: bold;
+    font-size: 14px;
+    margin-bottom: 0.5em;
+}
+
+.abtn{
+    background-color: #58AA94;
+    color: white;
+    border-radius: 0;
+    padding: 8px 22px 8px 22px;
+}
+
+.nbtn{
+    background-color: #58AA94;
+    color: white;
+    border-radius: 0;
+    padding: 5px 10px 5px 10px;
+}
+
+.sbtitle{
+    color:#58AA94;
+    font-weight: bold;
+    font-size: 15px;
+    margin: 0;
+    margin-top: 3em;
+}
+
+.sbtitle1{
+    color:#58AA94;
+    font-weight: bold;
+    font-size: 20px; 
+    margin-bottom: 10px;
+}
+
+.lbtn{
+    background-color: #58AA94;
+    color: white;
+    border-radius: 0;
+    padding: 8px 22px 8px 22px;
+}
+
+.lbtn:hover{
+    color: white;
+    background-color: #58AA94;
+}
+
+.pbtn{
+    color: inherit;
+}
